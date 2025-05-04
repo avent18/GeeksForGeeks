@@ -47,7 +47,7 @@ If this project helps you, **give it a ⭐** — it motivates and helps others d
 
 ## 📩 Connect With Me
 
-Feel free to connect or drop questions via [LinkedIn]([https://www.linkedin.com](https://www.linkedin.com/in/naveen-kumar-aven/)) or open an [issue](https://github.com/avent18/geeksforgeeks/issues)!
+Feel free to connect or drop questions via [LinkedIn](https://www.linkedin.com/in/naveen-kumar-aven/) or open an [issue](https://github.com/avent18/geeksforgeeks/issues)!
 
 ---
 
